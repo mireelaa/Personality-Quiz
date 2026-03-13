@@ -1,0 +1,194 @@
+[
+  {
+    "intrebare": "Care este culoarea ta preferată?",
+    "optiuni": [
+      {"text": "Roșu", "personaj": "Tinkerbell"},
+      {"text": "Verde", "personaj": "Rosetta"},
+      {"text": "Albastru", "personaj": "Fawn"},
+      {"text": "Galben", "personaj": "Iridessa"},
+      {"text": "Mov", "personaj": "Silvermist"},
+      {"text": "Negru", "personaj": "Vidia"}
+    ],
+    "scoruri,": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Cum îți petreci timpul liber?",
+    "optiuni": [
+      {"text": "Citind", "personaj": "Tinkerbell"},
+      {"text": "Călătorind", "personaj": "Rosetta"},
+      {"text": "Sportiv", "personaj": "Fawn"},
+      {"text": "Meditație", "personaj": "Iridessa"},
+      {"text": "Căutând comori", "personaj": "Silvermist"},
+      {"text": "Lucrând la proiecte", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Care este tipul tău preferat de vacanță?",
+    "optiuni": [
+      {"text": "Relaxare pe plajă", "personaj": "Tinkerbell"},
+      {"text": "Explorând noi culturi", "personaj": "Rosetta"},
+      {"text": "Sporturi de aventură", "personaj": "Fawn"},
+      {"text": "În natură", "personaj": "Iridessa"},
+      {"text": "Într-un loc misterios", "personaj": "Silvermist"},
+      {"text": "Lucrând în vacanță", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Cum te simți atunci când trebuie să iei o decizie importantă?",
+    "optiuni": [
+      {"text": "Încerc să mă gândesc mult înainte", "personaj": "Tinkerbell"},
+      {"text": "Întreb pe toată lumea ce părere au", "personaj": "Rosetta"},
+      {"text": "Mă bazez pe instinctul meu", "personaj": "Fawn"},
+      {"text": "Analizez toate opțiunile posibile", "personaj": "Iridessa"},
+      {"text": "Mă încred în intuiția mea", "personaj": "Silvermist"},
+      {"text": "Îmi urmez intuiția și sunt rapidă", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Ce tip de muzică îți place cel mai mult?",
+    "optiuni": [
+      {"text": "Pop", "personaj": "Tinkerbell"},
+      {"text": "Acustic", "personaj": "Rosetta"},
+      {"text": "Rock", "personaj": "Fawn"},
+      {"text": "Religios sau clasic", "personaj": "Iridessa"},
+      {"text": "Jazz sau blues", "personaj": "Silvermist"},
+      {"text": "Muzică electronică", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Cum îți place să îți petreci o zi de weekend?",
+    "optiuni": [
+      {"text": "La un picnic în parc", "personaj": "Tinkerbell"},
+      {"text": "La un atelier de creație", "personaj": "Rosetta"},
+      {"text": "Mergând pe munte", "personaj": "Fawn"},
+      {"text": "Lângă un lac sau în pădure", "personaj": "Iridessa"},
+      {"text": "Explorând locuri noi", "personaj": "Silvermist"},
+      {"text": "Lucrând la un proiect personal", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Ce crezi despre prietenii tăi?",
+    "optiuni": [
+      {"text": "Sunt comoara mea", "personaj": "Tinkerbell"},
+      {"text": "Ei mă ajută să cresc", "personaj": "Rosetta"},
+      {"text": "Sunt alături de mine la orice pas", "personaj": "Fawn"},
+      {"text": "Fiecare prietenie are valoare", "personaj": "Iridessa"},
+      {"text": "Sunt mereu acolo când am nevoie", "personaj": "Silvermist"},
+      {"text": "Sunt puternici și susținători", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Cum te simți atunci când ești provocat?",
+    "optiuni": [
+      {"text": "Îmi place să fiu provocat", "personaj": "Tinkerbell"},
+      {"text": "Îmi place să găsesc soluții creative", "personaj": "Rosetta"},
+      {"text": "Îmi place să depășesc limitele", "personaj": "Fawn"},
+      {"text": "Încerc să mă controlez și să analizez situația", "personaj": "Iridessa"},
+      {"text": "Mă simt încrezător în fața provocărilor", "personaj": "Silvermist"},
+      {"text": "Întotdeauna dau tot ce am mai bun", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Ce tip de cărți preferi să citești?",
+    "optiuni": [
+      {"text": "Povești magice și fantastice", "personaj": "Tinkerbell"},
+      {"text": "Cărți de design și artizanat", "personaj": "Rosetta"},
+      {"text": "Cărți de aventuri și explorare", "personaj": "Fawn"},
+      {"text": "Cărți inspiraționale și motivaționale", "personaj": "Iridessa"},
+      {"text": "Romane de mister și detectiv", "personaj": "Silvermist"},
+      {"text": "Cărți despre tehnologie și inovație", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Ce faci atunci când ai un conflict?",
+    "optiuni": [
+      {"text": "Caut o soluție amiabilă", "personaj": "Tinkerbell"},
+      {"text": "Încerc să înțeleg ambele părți", "personaj": "Rosetta"},
+      {"text": "Mă confrunt direct", "personaj": "Fawn"},
+      {"text": "Caut echilibru și armonie", "personaj": "Iridessa"},
+      {"text": "Îmi apăr punctul de vedere cu tărie", "personaj": "Silvermist"},
+      {"text": "Prefer să mă retrag pentru a nu escalada conflictul", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Cum îți place să te relaxezi după o zi lungă?",
+    "optiuni": [
+      {"text": "Privind un film sau o serie", "personaj": "Tinkerbell"},
+      {"text": "Cu o cană de ceai și o carte", "personaj": "Rosetta"},
+      {"text": "Mergând la o plimbare", "personaj": "Fawn"},
+      {"text": "Meditând sau practicând yoga", "personaj": "Iridessa"},
+      {"text": "Ascultând muzică liniștitoare", "personaj": "Silvermist"},
+      {"text": "Lucrând la proiectele mele", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Cum ai descrie relațiile tale de prietenie?",
+    "optiuni": [
+      {"text": "Sunt loiale și bazate pe încredere", "personaj": "Tinkerbell"},
+      {"text": "Sunt creative și pline de idei", "personaj": "Rosetta"},
+      {"text": "Sunt aventuroase și pline de surprize", "personaj": "Fawn"},
+      {"text": "Sunt calme și echilibrate", "personaj": "Iridessa"},
+      {"text": "Sunt profunde și sincere", "personaj": "Silvermist"},
+      {"text": "Sunt puternice și susținătoare", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Ce tip de filme îți place să vizionezi?",
+    "optiuni": [
+      {"text": "Comedii ușoare", "personaj": "Tinkerbell"},
+      {"text": "Filme romantice", "personaj": "Rosetta"},
+      {"text": "Aventuri intense", "personaj": "Fawn"},
+      {"text": "Filme de dramă sau inspiraționale", "personaj": "Iridessa"},
+      {"text": "Filme de mister și suspans", "personaj": "Silvermist"},
+      {"text": "Filme de acțiune și tehnologie", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Cum ai reacționa dacă cineva te-ar supăra?",
+    "optiuni": [
+      {"text": "Aș încerca să înțeleg motivul", "personaj": "Tinkerbell"},
+      {"text": "Aș încerca să îi ajut", "personaj": "Rosetta"},
+      {"text": "Aș fi directă și sinceră", "personaj": "Fawn"},
+      {"text": "Aș căuta un compromis", "personaj": "Iridessa"},
+      {"text": "Aș exprima clar ce mă deranjează", "personaj": "Silvermist"},
+      {"text": "Aș evita conflictul complet", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Ce îți place să faci într-o zi de vară?",
+    "optiuni": [
+      {"text": "Mă relaxez la soare", "personaj": "Tinkerbell"},
+      {"text": "Mă bucur de flori și natură", "personaj": "Rosetta"},
+      {"text": "Fac drumeții", "personaj": "Fawn"},
+      {"text": "Meditând într-un loc liniștit", "personaj": "Iridessa"},
+      {"text": "Explorând locuri noi", "personaj": "Silvermist"},
+      {"text": "Lucrând la proiecte de vară", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "intrebare": "Cum ai descrie abordarea ta față de muncă?",
+    "optiuni": [
+      {"text": "Sunt dedicată și îmi place să muncesc mult", "personaj": "Tinkerbell"},
+      {"text": "Îmi place să fiu creativă și inovativă", "personaj": "Rosetta"},
+      {"text": "Îmi place să rezolv provocări dificile", "personaj": "Fawn"},
+      {"text": "Sunt organizată și precisă", "personaj": "Iridessa"},
+      {"text": "Îmi place să mă autodepășesc", "personaj": "Silvermist"},
+      {"text": "Sunt eficientă și orientată spre rezultate", "personaj": "Vidia"}
+    ],
+    "scoruri": [1, 2, 3, 4, 5, 6]
+  }
+]
